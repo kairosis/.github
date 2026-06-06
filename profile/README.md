@@ -15,7 +15,7 @@ Self-hosted · Open source · MIT licensed
 | | |
 |---|---|
 | [Kairosis/kairosis](https://github.com/Kairosis/kairosis) | The platform — clone and self-host |
-| [Kairosis/docs](https://github.com/Kairosis/docs) | Documentation |
+| [kairosis.github.io](https://kairosis.github.io) | Documentation |
 
 ### Published packages
 
@@ -56,4 +56,4 @@ docker compose up
 
 ---
 
-[Documentation](https://github.com/Kairosis/docs) · [Contributing](https://github.com/Kairosis/.github/blob/main/CONTRIBUTING.md) · [Security](https://github.com/Kairosis/.github/blob/main/SECURITY.md) · [Build a connector](https://github.com/Kairosis/kairosis/tree/main/packages/connector-sdk)
+[Documentation](https://kairosis.github.io) · [Contributing](https://github.com/Kairosis/.github/blob/main/CONTRIBUTING.md) · [Security](https://github.com/Kairosis/.github/blob/main/SECURITY.md) · [Build a connector](https://github.com/Kairosis/kairosis/tree/main/packages/connector-sdk)
