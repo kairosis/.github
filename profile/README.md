@@ -8,6 +8,8 @@ structured event stream over AMQP.
 
 Self-hosted · Open source · MIT licensed
 
+<video src="https://github.com/kairosis/.github/raw/main/0605.mov" controls width="600"></video>
+
 ---
 
 ### Repositories
